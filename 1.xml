@@ -23,7 +23,7 @@
          <kyyti>kyyti.1449167</kyyti>
          <lapin>lapinkirjasto.1843441</lapin>
          <lastu>lastu.1761718</lastu>
-         <lepavirran>lep.398585</leppavirran>
+         <leppavirran>lep.398585</leppavirran>
          <louna>louna.524126</louna>
          <lukki>lukki.894761</lukki>
          <lumme>lumme.3052454</lumme>
@@ -62,7 +62,7 @@
          <kyyti>kyyti.1363019</kyyti>
          <lapin>lapinkirjasto.1767813</lapin>
          <lastu>lastu.1548912</lastu>
-         <lepavirran>lep.337031</leppavirran>
+         <leppavirran>lep.337031</leppavirran>
          <louna>louna.478978</louna>
          <lukki>lukki.788009</lukki>
          <lumme>lumme.2985323</lumme>
@@ -101,7 +101,7 @@
          <kyyti>kyyti.1363795</kyyti>
          <lapin>lapinkirjasto.1770554</lapin>
          <lastu>lastu.1550519</lastu>
-         <lepavirran>lep.337983</leppavirran>
+         <leppavirran>lep.337983</leppavirran>
          <louna>louna.479573</louna>
          <lukki>lukki.789858</lukki>
          <lumme>lumme.2987049</lumme>
@@ -140,7 +140,7 @@
          <kyyti>kyyti.1475063</kyyti>
          <lapin>lapinkirjasto.1868874</lapin>
          <lastu>lastu.1807883</lastu>
-         <lepavirran>lep.415938</leppavirran>
+         <leppavirran>lep.415938</leppavirran>
          <louna>louna.533906</louna>
          <lukki>lukki.922590</lukki>
          <lumme>lumme.3072398</lumme>
@@ -179,7 +179,7 @@
          <kyyti>kyyti.1379382</kyyti>
          <lapin>lapinkirjasto.1785999</lapin>
          <lastu>lastu.1596884</lastu>
-         <lepavirran>lep.355600</leppavirran>
+         <leppavirran>lep.355600</leppavirran>
          <louna>louna.488937</louna>
          <lukki>lukki.811685</lukki>
          <lumme>lumme.3001899</lumme>
@@ -219,7 +219,7 @@
          <kyyti>kyyti.1460193</kyyti>
          <lapin>lapinkirjasto.1857058</lapin>
          <lastu>lastu.1789260</lastu>
-         <lepavirran>lep.412290</leppavirran>
+         <leppavirran>lep.412290</leppavirran>
          <louna>louna.532501</louna>
          <lukki>lukki.915812</lukki>
          <lumme>lumme.3063964</lumme>
@@ -258,7 +258,7 @@
          <kyyti>kyyti.1363010</kyyti>
          <lapin>lapinkirjasto.1767862</lapin>
          <lastu>lastu.1546449</lastu>
-         <lepavirran>lep.336257</leppavirran>
+         <leppavirran>lep.336257</leppavirran>
          <louna>louna.479221</louna>
          <lukki>lukki.786727</lukki>
          <lumme>lumme.2984979</lumme>
@@ -297,7 +297,7 @@
          <kyyti>kyyti.1416781</kyyti>
          <lapin>lapinkirjasto.1817145</lapin>
          <lastu>lastu.1688853</lastu>
-         <lepavirran>lep.381659</leppavirran>
+         <leppavirran>lep.381659</leppavirran>
          <louna>louna.506733</louna>
          <lukki>lukki.859431</lukki>
          <lumme>lumme.3029085</lumme>
@@ -336,7 +336,7 @@
          <kyyti>kyyti.1493457</kyyti>
          <lapin>lapinkirjasto.1885537</lapin>
          <lastu>lastu.1857628</lastu>
-         <lepavirran>lep.437422</leppavirran>
+         <leppavirran>lep.437422</leppavirran>
          <louna>louna.545950</louna>
          <lukki>lukki.954150</lukki>
          <lumme>lumme.3091197</lumme>
@@ -375,7 +375,7 @@
          <kyyti>kyyti.1493459</kyyti>
          <lapin>lapinkirjasto.1885568</lapin>
          <lastu>lastu.1857622</lastu>
-         <lepavirran>lep.437424</leppavirran>
+         <leppavirran>lep.437424</leppavirran>
          <louna>louna.545948</louna>
          <lukki>lukki.954152</lukki>
          <lumme>lumme.3090983</lumme>
@@ -414,7 +414,7 @@
          <kyyti>kyyti.1498947</kyyti>
          <lapin>lapinkirjasto.1888363</lapin>
          <lastu>lastu.1866653</lastu>
-         <lepavirran>lep.438373</leppavirran>
+         <leppavirran>lep.438373</leppavirran>
          <louna>louna.547007</louna>
          <lukki>lukki.956351</lukki>
          <lumme>lumme.3096077</lumme>
@@ -453,7 +453,7 @@
          <kyyti>kyyti.1498879</kyyti>
          <lapin>lapinkirjasto.1888383</lapin>
          <lastu>lastu.1866495</lastu>
-         <lepavirran>lep.438372</leppavirran>
+         <leppavirran>lep.438372</leppavirran>
          <louna>louna.547006</louna>
          <lukki>lukki.956350</lukki>
          <lumme>lumme.3096083</lumme>
@@ -493,7 +493,7 @@
          <kyyti></kyyti>
          <lapin></lapin>
          <lastu></lastu>
-         <lepavirran></leppavirran>
+         <leppavirran></leppavirran>
          <louna></louna>
          <lukki></lukki>
          <lumme></lumme>
@@ -511,7 +511,7 @@
       </links>
       <description><![CDATA[<h4>Kipinät-sarja (SUURAAKKOSET)</h4>Kipinät-sarja on juuri lukemaan opetteleville oleva sarja.<br><br>Sen eri osissa nähdään erilaisia elämiä, jotka opetellevat ja tekevät yhdessä erilaisia asioita.<br><br>Sarjaan kuuluu sellaisia kirjoja kuin; Aasi ui, Mikä näistä tulee sekä Susi osaa, aasi osaa.]]></description>
       <series>
-         <s_helle>1459009</helle>
+         <helle>1459009</helle>
       </series>
    </book>
    <book>
@@ -535,7 +535,7 @@
          <kyyti>kyyti.1496927</kyyti>
          <lapin>lapinkirjasto.1887014</lapin>
          <lastu>lastu.1865990</lastu>
-         <lepavirran>lep.438305</leppavirran>
+         <leppavirran>lep.438305</leppavirran>
          <louna>louna.547033</louna>
          <lukki>lukki.956269</lukki>
          <lumme>lumme.3095590</lumme>
@@ -574,7 +574,7 @@
          <kyyti>kyyti.1497964</kyyti>
          <lapin>lapinkirjasto.1887022</lapin>
          <lastu>lastu.1865989</lastu>
-         <lepavirran>lep.438306</leppavirran>
+         <leppavirran>lep.438306</leppavirran>
          <louna>louna.546969</louna>
          <lukki>lukki.956270</lukki>
          <lumme>lumme.3095578</lumme>
@@ -613,7 +613,7 @@
          <kyyti>kyyti.1479599</kyyti>
          <lapin>lapinkirjasto.1873925</lapin>
          <lastu>lastu.1826543</lastu>
-         <lepavirran>lep.422755</leppavirran>
+         <leppavirran>lep.422755</leppavirran>
          <louna>louna.538763</louna>
          <lukki>lukki.934077</lukki>
          <lumme>lumme.3080248</lumme>
@@ -652,7 +652,7 @@
          <kyyti>kyyti.1400728</kyyti>
          <lapin>lapinkirjasto.1804705</lapin>
          <lastu>lastu.1646024</lastu>
-         <lepavirran>lep.376617</leppavirran>
+         <leppavirran>lep.376617</leppavirran>
          <louna>louna.500356</louna>
          <lukki>lukki.839379</lukki>
          <lumme>lumme.3019845</lumme>
@@ -691,7 +691,7 @@
          <kyyti>kyyti.1416777</kyyti>
          <lapin>lapinkirjasto.1817123</lapin>
          <lastu>lastu.1688859</lastu>
-         <lepavirran>lep.381634</leppavirran>
+         <leppavirran>lep.381634</leppavirran>
          <louna>louna.507416</louna>
          <lukki>lukki.859437</lukki>
          <lumme>lumme.3029064</lumme>
@@ -709,7 +709,7 @@
       </links>
       <description><![CDATA[<h4>Jännä juoksu</h4>Eeli ja Omar ovat naapureita sekä parhaita kavereita.<br><br>Koulussa on tulossa juoksukisat ja ystävykset ovat siitä innoissaan. Eeli pakkaa reppuunsa jopa ihka uudet juoksukengät.<br><br>Kun juoksupäivä koittaa, ensin venytellään, minkä jälkeen vanhemmat oppilaat lähtevät juoksemaan ensin. Eeli ja Omar juoksevat todella kovaa! He varmasti voittavat koko kisan. <br><br>Sitten tapahtuu jotain, mikä vie poikien huomion. Onnistuvatko he silti voittamaan?]]></description>
       <series>
-         <s_helle>1459018</helle>
+         <helle>1459018</helle>
       </series>
    </book>
    <book>
@@ -733,7 +733,7 @@
          <kyyti>kyyti.1344440</kyyti>
          <lapin>lapinkirjasto.1746992</lapin>
          <lastu>lastu.1513032</lastu>
-         <lepavirran>lep.320726</leppavirran>
+         <leppavirran>lep.320726</leppavirran>
          <louna>louna.469763</louna>
          <lukki>lukki.767735</lukki>
          <lumme>lumme.2971198</lumme>
@@ -772,7 +772,7 @@
          <kyyti>kyyti.201556</kyyti>
          <lapin>lapinkirjasto.1201563</lapin>
          <lastu>lastu.291575</lastu>
-         <lepavirran>lep.25904</leppavirran>
+         <leppavirran>lep.25904</leppavirran>
          <louna>louna.257099</louna>
          <lukki>lukki.10408</lukki>
          <lumme>lumme.11865</lumme>
@@ -812,7 +812,7 @@
          <kyyti>kyyti.1416263</kyyti>
          <lapin>lapinkirjasto.1817399</lapin>
          <lastu>lastu.1689995</lastu>
-         <lepavirran>lep.381546</leppavirran>
+         <leppavirran>lep.381546</leppavirran>
          <louna>louna.507409</louna>
          <lukki>lukki.861241</lukki>
          <lumme>lumme.3028990</lumme>
@@ -851,7 +851,7 @@
          <kyyti>kyyti.1416109</kyyti>
          <lapin>lapinkirjasto.1817398</lapin>
          <lastu>lastu.1689994</lastu>
-         <lepavirran>lep.381545</leppavirran>
+         <leppavirran>lep.381545</leppavirran>
          <louna>louna.507407</louna>
          <lukki>lukki.861238</lukki>
          <lumme>lumme.3028989</lumme>
@@ -890,7 +890,7 @@
          <kyyti>kyyti.1274567</kyyti>
          <lapin>lapinkirjasto.1284292</lapin>
          <lastu>lastu.234890</lastu>
-         <lepavirran>lep.266965</leppavirran>
+         <leppavirran>lep.266965</leppavirran>
          <louna>louna.348365</louna>
          <lukki>lukki.700648</lukki>
          <lumme>lumme.2906678</lumme>
@@ -929,7 +929,7 @@
          <kyyti>kyyti.1480307</kyyti>
          <lapin>lapinkirjasto.1874665</lapin>
          <lastu>lastu.1828943</lastu>
-         <lepavirran>lep.424438</leppavirran>
+         <leppavirran>lep.424438</leppavirran>
          <louna>louna.539586</louna>
          <lukki>lukki.936164</lukki>
          <lumme>lumme.308180</lumme>
@@ -968,7 +968,7 @@
          <kyyti>kyyti.1496930</kyyti>
          <lapin>lapinkirjasto.188703</lapin>
          <lastu>lastu.1865994</lastu>
-         <lepavirran>lep.438319</leppavirran>
+         <leppavirran>lep.438319</leppavirran>
          <louna>louna.547020</louna>
          <lukki>lukki.956283</lukki>
          <lumme>lumme.3095610</lumme>
@@ -1007,7 +1007,7 @@
          <kyyti>kyyti.1435073</kyyti>
          <lapin>lapinkirjasto.1832573</lapin>
          <lastu>lastu.1732541</lastu>
-         <lepavirran>lep.384207</leppavirran>
+         <leppavirran>lep.384207</leppavirran>
          <louna>louna.516803</louna>
          <lukki>lukki.880802</lukki>
          <lumme>lumme.3042333</lumme>
@@ -1046,7 +1046,7 @@
          <kyyti>kyyti.1334212</kyyti>
          <lapin>lapinkirjasto.1733875</lapin>
          <lastu>lastu.197622</lastu>
-         <lepavirran>lep.305999</leppavirran>
+         <leppavirran>lep.305999</leppavirran>
          <louna>louna.461808</louna>
          <lukki>lukki.748640</lukki>
          <lumme>lumme.2957876</lumme>
@@ -1085,7 +1085,7 @@
          <kyyti>kyyti.1493434</kyyti>
          <lapin>lapinkirjasto.1885564</lapin>
          <lastu>lastu.1857710</lastu>
-         <lepavirran>lep.437418</leppavirran>
+         <leppavirran>lep.437418</leppavirran>
          <louna>louna.545985</louna>
          <lukki>lukki.954146</lukki>
          <lumme>lumme.3091070</lumme>
@@ -1103,7 +1103,7 @@
       </links>
       <description><![CDATA[<h4>Luen itse, Marvel-sarja</h4>Peter Parker on lapsena orvoksi jäänyt poika, joka asuu setänsä ja tätinsä luona New Yorkissa ja ottaa valokuvia paikalliseen sanomalehteen.<br>Kunnes eräänä päivänä radioaktiivinen hämähäkki puree häntä ja hän saa supervoimat!<br><br>Peter pystyy nyt kiipeämään pitkin seiniä kuin hämähäkki, tuottamaan seittiä ja vaistoamaan vaaran superherkillä hämähäkin aisteillaan.]]></description>
       <series>
-         <s_helle>1459036</helle>
+         <helle>1459036</helle>
       </series>
    </book>
    <book>
@@ -1127,7 +1127,7 @@
          <kyyti>kyyti.1497330</kyyti>
          <lapin>lapinkirjasto.1886238</lapin>
          <lastu>lastu.1866317</lastu>
-         <lepavirran></leppavirran>
+         <leppavirran></leppavirran>
          <louna>louna.547163</louna>
          <lukki>lukki.958019</lukki>
          <lumme>lumme.3095350</lumme>
@@ -1145,7 +1145,7 @@
       </links>
       <description><![CDATA[<h4>Seikkailu vuorella</h4>Lue jännittävää tarinaa siitä, kuinka Emmi ja Kaarna koettavat selviytyä Minecraftin villissä maailmassa!]]></description>
       <series>
-         <s_helle>1459042</helle>
+         <helle>1459042</helle>
       </series>
    </book>
    <book>
@@ -1169,7 +1169,7 @@
          <kyyti>kyyti.1508978</kyyti>
          <lapin>lapinkirjasto.1900531</lapin>
          <lastu>lastu.1888664</lastu>
-         <lepavirran>lep.445876</leppavirran>
+         <leppavirran>lep.445876</leppavirran>
          <louna>louna.550309</louna>
          <lukki>lukki.968293</lukki>
          <lumme>lumme.3107199</lumme>
@@ -1208,7 +1208,7 @@
          <kyyti>kyyti.1327421</kyyti>
          <lapin>lapinkirjasto.1731364</lapin>
          <lastu>lastu.259264</lastu>
-         <lepavirran>lep.302025</leppavirran>
+         <leppavirran>lep.302025</leppavirran>
          <louna>louna.460330</louna>
          <lukki>lukki.742788</lukki>
          <lumme>lumme.2953748</lumme>
@@ -1226,7 +1226,7 @@
       </links>
       <description><![CDATA[<h4>Mur ja mustikka</h4>Mur ja mustikka kertoo tarinan Murin ja Ison matkasta polulla.<br><br>Iso on matkalla määränpäähän ja Murin on seurattava perässä. Vaikka vastaan tulisi mitä! Polun päässä on mustikka. Monta mustikkaa. Mustikoita silmänkantamattomiin.<br><br>Joka puolella vain ja ainoastaan mustikoita! Sinne me menemme.]]></description>
       <series>
-         <s_helle>1459063</helle>
+         <helle>1459063</helle>
       </series>
    </book>
    <book>
@@ -1250,7 +1250,7 @@
          <kyyti>kyyti.612175</kyyti>
          <lapin>lapinkirjasto.1091418</lapin>
          <lastu>lastu.390182</lastu>
-         <lepavirran></leppavirran>
+         <leppavirran></leppavirran>
          <louna>louna.311862</louna>
          <lukki>lukki.43739</lukki>
          <lumme>lumme.373142</lumme>
@@ -1289,7 +1289,7 @@
          <kyyti>kyyti.1400101</kyyti>
          <lapin>lapinkirjasto.1804234</lapin>
          <lastu>lastu.1645980</lastu>
-         <lepavirran>lep.376573</leppavirran>
+         <leppavirran>lep.376573</leppavirran>
          <louna>louna.498686</louna>
          <lukki>lukki.839335</lukki>
          <lumme>lumme.3019137</lumme>
@@ -1307,7 +1307,7 @@
       </links>
       <description><![CDATA[<h4>Häntähoiva ja Pätkä</h4>Martta haluaisi oman koiran, mutta valitettavasti isä on allerginen, eikä haavetta siten voi toteuttaa.<br><br>Onneksi on Tiina, joka pyytää Marttaa auttamaan häntä Pätkä-koiran lenkittämisessä viikon ajan.<br><br>Ystäviensä Lilan sekä Eeron kanssa, Martta perustaa osuuskunta Häntähoivan auttamaan kaikenlaisissa lemmikkeihin liittyvissä ongelmissa.]]></description>
       <series>
-         <s_helle>1459033</helle>
+         <helle>1459033</helle>
       </series>
    </book>
    <book>
@@ -1331,7 +1331,7 @@
          <kyyti>kyyti.253053</kyyti>
          <lapin>lapinkirjasto.1241050</lapin>
          <lastu>lastu.297400</lastu>
-         <lepavirran>lep.227820</leppavirran>
+         <leppavirran>lep.227820</leppavirran>
          <louna>louna.291944</louna>
          <lukki>lukki.646960</lukki>
          <lumme>lumme.2607940</lumme>
@@ -1349,7 +1349,7 @@
       </links>
       <description><![CDATA[<h4>Keisarin uudet kloonit</h4>Ronista on kurjaa olla koko galaksin keisari.<br><br>Hänellä on niin paljon keisarillisia velvollisuuksia, että hän ei ehdi pelata lempipeliään kiitopalloa.<br><br>Kunpa joku voisi hoitaa velvollisuudet hänen puolestaan...]]></description>
       <series>
-         <s_helle></helle>
+         <helle></helle>
       </series>
    </book>
    <book>
@@ -1373,7 +1373,7 @@
          <kyyti>kyyti.689894</kyyti>
          <lapin>lapinkirjasto.1201566</lapin>
          <lastu>lastu.327852</lastu>
-         <lepavirran>lep.14252</leppavirran>
+         <leppavirran>lep.14252</leppavirran>
          <louna>louna.193073</louna>
          <lukki>lukki.57047</lukki>
          <lumme>lumme.425847</lumme>
@@ -1401,7 +1401,7 @@
       </links>
       <description><![CDATA[<h4>Maailman paras pizza</h4>Madeleinella sekä hänen kaksoisveljellään Michelinillä on oma kokkiklubi, johon kuuluu myös paras ystävä Slaissi sekä pikkusisko Bebe, joka toki vain sotkee.<br><br>Eräänä päivänä on Slaissin jalkapalloturnaus, jonka jälkeisissä myyjäisissä tulisi tarjoilla pizzaa.<br><br>Millaisia aineksia pizzan tekeminen tarvitsee ja kuka kumma on ovesta sisään pyyhältävä Rosmariini?]]></description>
       <series>
-         <s_helle>1459093</helle>
+         <helle>1459093</helle>
          <anders>anders.1680506</anders>
          <blanka>blanka.127607</blanka>
          <eepos>eepos.2378904</eepos>
@@ -1416,7 +1416,7 @@
          <kyyti>kyyti.1320564</kyyti>
          <lapin>lapinkirjasto.1731358</lapin>
          <lastu>lastu.241597</lastu>
-         <lepavirran>lep.302142</leppavirran>
+         <leppavirran>lep.302142</leppavirran>
          <louna>louna.460321</louna>
          <lukki>lukki.742904</lukki>
          <lumme>lumme.2953992</lumme>
@@ -1454,7 +1454,7 @@
          <kyyti>kyyti.1414141</kyyti>
          <lapin>lapinkirjasto.1815500</lapin>
          <lastu>lastu.1684618</lastu>
-         <lepavirran>lep.380839</leppavirran>
+         <leppavirran>lep.380839</leppavirran>
          <louna>louna.504478</louna>
          <lukki>lukki.856484</lukki>
          <lumme>lumme.3026696</lumme>
@@ -1472,7 +1472,7 @@
       </links>
       <description><![CDATA[<h4>Painajaispuoti ja kamala kutituspulveri</h4>Ninnillä on monta ongelmaa!<br><br>Ensinnäkin hän haluaa ostaa polkupyörän.<br>Toiseksi hänellä ei ole rahaa osata sitä.<br>Ja kolmanneksi Ninni tarvitsee työpaikan, mutta kuka kumma voisi palkata 9-vuotiaan!<br><br>Kuka kumma tosiaan! Nimittäin omituinen kauppa nimeltään Painajaispuoti etsii kauppa-apulaista. Ninnistä kauppa näyttää todella hienolta, mutta se omistaja on todella outo, eikä tee mitään muuta kuin hihitä lattialla.<br><br>Onnistuuko Ninni lopulta saamaan työpaikan sekä polkupyörän?]]></description>
       <series>
-         <s_helle>1459102</helle>
+         <helle>1459102</helle>
       </series>
    </book>
    <book>
@@ -1496,7 +1496,7 @@
          <kyyti>kyyti.1339095</kyyti>
          <lapin>lapinkirjasto.1742947</lapin>
          <lastu>lastu.267684</lastu>
-         <lepavirran>lep.317128</leppavirran>
+         <leppavirran>lep.317128</leppavirran>
          <louna>louna.467931</louna>
          <lukki>lukki.763540</lukki>
          <lumme>lumme.2968952</lumme>
@@ -1514,7 +1514,7 @@
       </links>
       <description><![CDATA[<h4>Yökoulu-sarja</h4>Tiesitkö, että zombit ja vampyyrit käyvät öisin koulua?<br><br>Yökoulu on helppolukuinen kirjasarja, joka on pullollaan päätöntä huumoria ja jäätävän jännää meininkiä.<br><br>Kauhun ja huumorin yhdistelmää ei voi vampyyrikaan vastustaa!]]></description>
       <series>
-         <s_helle>1459105</helle>
+         <helle>1459105</helle>
       </series>
    </book>
    <book>
@@ -1539,7 +1539,7 @@
          <kyyti>kyyti.1433596</kyyti>
          <lapin>lapinkirjasto.1828378</lapin>
          <lastu>lastu.1725566</lastu>
-         <lepavirran>lapinkirjasto.1828378</leppavirran>
+         <leppavirran>lapinkirjasto.1828378</leppavirran>
          <louna>louna.514349</louna>
          <lukki>lukki.876651</lukki>
          <lumme>lumme.3039836</lumme>
@@ -1557,7 +1557,7 @@
       </links>
       <description><![CDATA[<h4>Aavepartio-sarja</h4>Lukupalojen uudessa Aavepartio-sarjassa koti täyttyy monstereista heti, kun äiti ja isä sulkevat oven perässään.<br><br>Lasten perustama Aavepartio ryhtyy rakentamaan haamuille, ihmissusille, zombeille ja vampyyreille toinen toistaan kekseliäämpiä ja hassumpia ansoja.]]></description>
       <series>
-         <s_helle>1459114</helle>
+         <helle>1459114</helle>
       </series>
    </book>
    <book>
@@ -1581,7 +1581,7 @@
          <kyyti>kyyti.476733</kyyti>
          <lapin>lapinkirjasto.1220661</lapin>
          <lastu>lastu.215246</lastu>
-         <lepavirran>lep.20376</leppavirran>
+         <leppavirran>lep.20376</leppavirran>
          <louna>louna.293311</louna>
          <lukki>lukki.35476</lukki>
          <lumme>lumme.287015</lumme>
@@ -1620,7 +1620,7 @@
          <kyyti>kyyti.1466628</kyyti>
          <lapin>lapinkirjasto.1861123</lapin>
          <lastu>lastu.1797811</lastu>
-         <lepavirran>lep.412294</leppavirran>
+         <leppavirran>lep.412294</leppavirran>
          <louna>louna.531265</louna>
          <lukki>lukki.915816</lukki>
          <lumme>lumme.3069132</lumme>
@@ -1659,7 +1659,7 @@
          <kyyti>kyyti.1365981</kyyti>
          <lapin>lapinkirjasto.1772108</lapin>
          <lastu>lastu.1556909</lastu>
-         <lepavirran>lep.340729</leppavirran>
+         <leppavirran>lep.340729</leppavirran>
          <louna>louna.481204</louna>
          <lukki>lukki.793317</lukki>
          <lumme>lumme.2988109</lumme>
@@ -1698,7 +1698,7 @@
          <kyyti>kyyti.1247749</kyyti>
          <lapin>lapinkirjasto.1259167</lapin>
          <lastu>lastu.380711</lastu>
-         <lepavirran>lep.242843</leppavirran>
+         <leppavirran>lep.242843</leppavirran>
          <louna>louna.262765</louna>
          <lukki>lukki.668291</lukki>
          <lumme>lumme.2866322</lumme>
@@ -1737,7 +1737,7 @@
          <kyyti></kyyti>
          <lapin></lapin>
          <lastu></lastu>
-         <lepavirran></leppavirran>
+         <leppavirran></leppavirran>
          <louna></louna>
          <lukki></lukki>
          <lumme></lumme>
@@ -1755,7 +1755,7 @@
       </links>
       <description><![CDATA[<h4>Kaupunkiretki</h4>Runomatkalla kaupungissa piipahdetaan paloasemalla, helpotetaan hammassärkyä apteekissa, kurkataan kaupungintaloon ja viivähdetään torilla.<br><br>Välillä seistään liikennevaloissa, istahdetaan puistonpenkillä ja kuunnellaan, mitä lyhtypylväs kertoo. Tehtaan savu aivastuttaa ja joku on ikuistettu patsaaseen.<br><br>Vaan uimahalli se vasta kumma paikka on: sen lattialla loiskuu sadat litrat vettä.]]></description>
       <series>
-         <s_helle></helle>
+         <helle></helle>
       </series>
    </book>
    <book>
@@ -1782,7 +1782,7 @@
          <kyyti></kyyti>
          <lapin></lapin>
          <lastu></lastu>
-         <lepavirran></leppavirran>
+         <leppavirran></leppavirran>
          <louna></louna>
          <lukki></lukki>
          <lumme></lumme>
@@ -1824,7 +1824,7 @@
          <kyyti></kyyti>
          <lapin></lapin>
          <lastu></lastu>
-         <lepavirran></leppavirran>
+         <leppavirran></leppavirran>
          <louna></louna>
          <lukki></lukki>
          <lumme></lumme>
@@ -1866,7 +1866,7 @@
          <kyyti></kyyti>
          <lapin></lapin>
          <lastu></lastu>
-         <lepavirran></leppavirran>
+         <leppavirran></leppavirran>
          <louna></louna>
          <lukki></lukki>
          <lumme></lumme>
@@ -1896,7 +1896,7 @@
       </links>
       <description><![CDATA[]]></description>
       <series>
-         <s_helle></helle>
+         <helle></helle>
       </series>
    </book>
    <book>
@@ -1921,7 +1921,7 @@
          <kyyti></kyyti>
          <lapin></lapin>
          <lastu></lastu>
-         <lepavirran></leppavirran>
+         <leppavirran></leppavirran>
          <louna></louna>
          <lukki></lukki>
          <lumme></lumme>
@@ -1940,7 +1940,7 @@
       </links>
       <description><![CDATA[]]></description>
       <series>
-         <s_helle></helle>
+         <helle></helle>
       </series>
    </book>
 </books>
