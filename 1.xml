@@ -23,7 +23,7 @@
          <kyyti>kyyti.1449167</kyyti>
          <lapin>lapinkirjasto.1843441</lapin>
          <lastu>lastu.1761718</lastu>
-         <leppavirran>lep.398585</leppavirran>
+         <leppävirran>lep.398585</leppavirran>
          <louna>louna.524126</louna>
          <lukki>lukki.894761</lukki>
          <lumme>lumme.3052454</lumme>
@@ -34,7 +34,7 @@
          <satakirjastot>satakirjastot.1452672</satakirjastot>
          <silinjarven>siilinjarvi.581216</silinjarven>
          <someron>somero.451311</someron>
-         <sotkamon></sotkamon>
+         <sotkamon><sotkamon>
          <vaara>vaarakirjastot.11642398</vaara>
          <vanamo>vanamo.828172</vanamo>
          <vaski>vaski.4179821</vaski>
@@ -62,7 +62,7 @@
          <kyyti>kyyti.1363019</kyyti>
          <lapin>lapinkirjasto.1767813</lapin>
          <lastu>lastu.1548912</lastu>
-         <leppavirran>lep.337031</leppavirran>
+         <leppävirran>lep.337031</leppavirran>
          <louna>louna.478978</louna>
          <lukki>lukki.788009</lukki>
          <lumme>lumme.2985323</lumme>
@@ -73,7 +73,7 @@
          <satakirjastot>satakirjastot.1292979</satakirjastot>
          <silinjarven>siilinjarvi.545470</silinjarven>
          <someron>somero.358838</someron>
-         <sotkamon>sotkamo.341255</sotkamon>
+         <sotkamon>sotkamo.341255<sotkamon>
          <vaara>vaarakirjastot.11510069</vaara>
          <vanamo>vanamo.777352</vanamo>
          <vaski>vaski.3825047</vaski>
@@ -101,7 +101,7 @@
          <kyyti>kyyti.1363795</kyyti>
          <lapin>lapinkirjasto.1770554</lapin>
          <lastu>lastu.1550519</lastu>
-         <leppavirran>lep.337983</leppavirran>
+         <leppävirran>lep.337983</leppavirran>
          <louna>louna.479573</louna>
          <lukki>lukki.789858</lukki>
          <lumme>lumme.2987049</lumme>
@@ -112,7 +112,7 @@
          <satakirjastot>satakirjastot.1294315</satakirjastot>
          <silinjarven>siilinjarvi.545718</silinjarven>
          <someron>somero.359608</someron>
-         <sotkamon>sotkamo.342904</sotkamon>
+         <sotkamon>sotkamo.342904<sotkamon>
          <vaara>vaarakirjastot.11511127</vaara>
          <vanamo>vanamo.778428</vanamo>
          <vaski>vaski.3830184</vaski>
@@ -140,7 +140,7 @@
          <kyyti>kyyti.1475063</kyyti>
          <lapin>lapinkirjasto.1868874</lapin>
          <lastu>lastu.1807883</lastu>
-         <leppavirran>lep.415938</leppavirran>
+         <leppävirran>lep.415938</leppavirran>
          <louna>louna.533906</louna>
          <lukki>lukki.922590</lukki>
          <lumme>lumme.3072398</lumme>
@@ -151,7 +151,7 @@
          <satakirjastot>satakirjastot.1512116</satakirjastot>
          <silinjarven>siilinjarvi.588681</silinjarven>
          <someron>somero.478021</someron>
-         <sotkamon>sotkamo.447050</sotkamon>
+         <sotkamon>sotkamo.447050<sotkamon>
          <vaara>vaarakirjastot.11663767</vaara>
          <vanamo>vanamo.839340</vanamo>
          <vaski>vaski.4232047</vaski>
@@ -179,7 +179,7 @@
          <kyyti>kyyti.1379382</kyyti>
          <lapin>lapinkirjasto.1785999</lapin>
          <lastu>lastu.1596884</lastu>
-         <leppavirran>lep.355600</leppavirran>
+         <leppävirran>lep.355600</leppavirran>
          <louna>louna.488937</louna>
          <lukki>lukki.811685</lukki>
          <lumme>lumme.3001899</lumme>
@@ -191,7 +191,7 @@
          <satakirjastot>satakirjastot.1322561</satakirjastot>
          <silinjarven>siilinjarvi.551340</silinjarven>
          <someron>somero.377988</someron>
-         <sotkamon>sotkamo.354598</sotkamon>
+         <sotkamon>sotkamo.354598<sotkamon>
          <vaara>vaarakirjastot.11529514</vaara>
          <vanamo>vanamo.789517</vanamo>
          <vaski>vaski.3906379</vaski>
@@ -219,7 +219,7 @@
          <kyyti>kyyti.1460193</kyyti>
          <lapin>lapinkirjasto.1857058</lapin>
          <lastu>lastu.1789260</lastu>
-         <leppavirran>lep.412290</leppavirran>
+         <leppävirran>lep.412290</leppavirran>
          <louna>louna.532501</louna>
          <lukki>lukki.915812</lukki>
          <lumme>lumme.3063964</lumme>
@@ -230,7 +230,7 @@
          <satakirjastot>satakirjastot.1499012</satakirjastot>
          <silinjarven>siilinjarvi.587825</silinjarven>
          <someron>somero.472365</someron>
-         <sotkamon>sotkamo.435874</sotkamon>
+         <sotkamon>sotkamo.435874<sotkamon>
          <vaara>vaarakirjastot.11656511</vaara>
          <vanamo>vanamo.836289</vanamo>
          <vaski>vaski.4200588</vaski>
@@ -258,7 +258,7 @@
          <kyyti>kyyti.1363010</kyyti>
          <lapin>lapinkirjasto.1767862</lapin>
          <lastu>lastu.1546449</lastu>
-         <leppavirran>lep.336257</leppavirran>
+         <leppävirran>lep.336257</leppavirran>
          <louna>louna.479221</louna>
          <lukki>lukki.786727</lukki>
          <lumme>lumme.2984979</lumme>
@@ -269,7 +269,7 @@
          <satakirjastot>satakirjastot.1290916</satakirjastot>
          <silinjarven>siilinjarvi.545087</silinjarven>
          <someron>somero.357865</someron>
-         <sotkamon>sotkamo.341113</sotkamon>
+         <sotkamon>sotkamo.341113<sotkamon>
          <vaara>vaarakirjastot.11509493</vaara>
          <vanamo>vanamo.776778</vanamo>
          <vaski>vaski.3821965</vaski>
@@ -297,7 +297,7 @@
          <kyyti>kyyti.1416781</kyyti>
          <lapin>lapinkirjasto.1817145</lapin>
          <lastu>lastu.1688853</lastu>
-         <leppavirran>lep.381659</leppavirran>
+         <leppävirran>lep.381659</leppavirran>
          <louna>louna.506733</louna>
          <lukki>lukki.859431</lukki>
          <lumme>lumme.3029085</lumme>
@@ -308,7 +308,7 @@
          <satakirjastot>satakirjastot.1380169</satakirjastot>
          <silinjarven>siilinjarvi.568708</silinjarven>
          <someron>somero.416337</someron>
-         <sotkamon>sotkamo.383732</sotkamon>
+         <sotkamon>sotkamo.383732<sotkamon>
          <vaara>vaarakirjastot.11566240</vaara>
          <vanamo>vanamo.808796</vanamo>
          <vaski>vaski.4064636</vaski>
@@ -336,7 +336,7 @@
          <kyyti>kyyti.1493457</kyyti>
          <lapin>lapinkirjasto.1885537</lapin>
          <lastu>lastu.1857628</lastu>
-         <leppavirran>lep.437422</leppavirran>
+         <leppävirran>lep.437422</leppavirran>
          <louna>louna.545950</louna>
          <lukki>lukki.954150</lukki>
          <lumme>lumme.3091197</lumme>
@@ -347,7 +347,7 @@
          <satakirjastot>satakirjastot.1600700</satakirjastot>
          <silinjarven>siilinjarvi.597574</silinjarven>
          <someron>somero.511720</someron>
-         <sotkamon>sotkamo.464305</sotkamon>
+         <sotkamon>sotkamo.464305<sotkamon>
          <vaara>vaarakirjastot.11687672</vaara>
          <vanamo>vanamo.851396</vanamo>
          <vaski>vaski.4269338</vaski>
@@ -375,7 +375,7 @@
          <kyyti>kyyti.1493459</kyyti>
          <lapin>lapinkirjasto.1885568</lapin>
          <lastu>lastu.1857622</lastu>
-         <leppavirran>lep.437424</leppavirran>
+         <leppävirran>lep.437424</leppavirran>
          <louna>louna.545948</louna>
          <lukki>lukki.954152</lukki>
          <lumme>lumme.3090983</lumme>
@@ -386,7 +386,7 @@
          <satakirjastot>satakirjastot.1600702</satakirjastot>
          <silinjarven>siilinjarvi.597593</silinjarven>
          <someron>somero.511722</someron>
-         <sotkamon></sotkamon>
+         <sotkamon><sotkamon>
          <vaara>vaarakirjastot.11687659</vaara>
          <vanamo>vanamo.851394</vanamo>
          <vaski>vaski.4269326</vaski>
@@ -414,7 +414,7 @@
          <kyyti>kyyti.1498947</kyyti>
          <lapin>lapinkirjasto.1888363</lapin>
          <lastu>lastu.1866653</lastu>
-         <leppavirran>lep.438373</leppavirran>
+         <leppävirran>lep.438373</leppavirran>
          <louna>louna.547007</louna>
          <lukki>lukki.956351</lukki>
          <lumme>lumme.3096077</lumme>
@@ -425,7 +425,7 @@
          <satakirjastot>satakirjastot.1603734</satakirjastot>
          <silinjarven>siilinjarvi.598986</silinjarven>
          <someron>somero.513401</someron>
-         <sotkamon></sotkamon>
+         <sotkamon><sotkamon>
          <vaara>vaarakirjastot.11693152</vaara>
          <vanamo>vanamo.852486</vanamo>
          <vaski>vaski.4278232</vaski>
@@ -453,7 +453,7 @@
          <kyyti>kyyti.1498879</kyyti>
          <lapin>lapinkirjasto.1888383</lapin>
          <lastu>lastu.1866495</lastu>
-         <leppavirran>lep.438372</leppavirran>
+         <leppävirran>lep.438372</leppavirran>
          <louna>louna.547006</louna>
          <lukki>lukki.956350</lukki>
          <lumme>lumme.3096083</lumme>
@@ -464,7 +464,7 @@
          <satakirjastot>satakirjastot.1603733</satakirjastot>
          <silinjarven>siilinjarvi.599028</silinjarven>
          <someron>somero.513400</someron>
-         <sotkamon></sotkamon>
+         <sotkamon><sotkamon>
          <vaara>vaarakirjastot.11693128</vaara>
          <vanamo>vanamo.852521</vanamo>
          <vaski>vaski.4278229</vaski>
@@ -493,7 +493,7 @@
          <kyyti></kyyti>
          <lapin></lapin>
          <lastu></lastu>
-         <leppavirran></leppavirran>
+         <leppävirran></leppavirran>
          <louna></louna>
          <lukki></lukki>
          <lumme></lumme>
@@ -504,14 +504,14 @@
          <satakirjastot></satakirjastot>
          <silinjarven></silinjarven>
          <someron></someron>
-         <sotkamon></sotkamon>
+         <sotkamon><sotkamon>
          <vaara></vaara>
          <vanamo></vanamo>
          <vaski></vaski>
       </links>
       <description><![CDATA[<h4>Kipinät-sarja (SUURAAKKOSET)</h4>Kipinät-sarja on juuri lukemaan opetteleville oleva sarja.<br><br>Sen eri osissa nähdään erilaisia elämiä, jotka opetellevat ja tekevät yhdessä erilaisia asioita.<br><br>Sarjaan kuuluu sellaisia kirjoja kuin; Aasi ui, Mikä näistä tulee sekä Susi osaa, aasi osaa.]]></description>
       <series>
-         <helle>1459009</helle>
+         <s_helle>1459009</helle>
       </series>
    </book>
    <book>
@@ -535,7 +535,7 @@
          <kyyti>kyyti.1496927</kyyti>
          <lapin>lapinkirjasto.1887014</lapin>
          <lastu>lastu.1865990</lastu>
-         <leppavirran>lep.438305</leppavirran>
+         <leppävirran>lep.438305</leppavirran>
          <louna>louna.547033</louna>
          <lukki>lukki.956269</lukki>
          <lumme>lumme.3095590</lumme>
@@ -546,7 +546,7 @@
          <satakirjastot>satakirjastot.1603653</satakirjastot>
          <silinjarven>siilinjarvi.598640</silinjarven>
          <someron>somero.513320</someron>
-         <sotkamon></sotkamon>
+         <sotkamon><sotkamon>
          <vaara>vaarakirjastot.11693137</vaara>
          <vanamo>vanamo.852515</vanamo>
          <vaski>vaski.4278011</vaski>
@@ -574,7 +574,7 @@
          <kyyti>kyyti.1497964</kyyti>
          <lapin>lapinkirjasto.1887022</lapin>
          <lastu>lastu.1865989</lastu>
-         <leppavirran>lep.438306</leppavirran>
+         <leppävirran>lep.438306</leppavirran>
          <louna>louna.546969</louna>
          <lukki>lukki.956270</lukki>
          <lumme>lumme.3095578</lumme>
@@ -585,7 +585,7 @@
          <satakirjastot>satakirjastot.1603654</satakirjastot>
          <silinjarven>siilinjarvi.598617</silinjarven>
          <someron>somero.513321</someron>
-         <sotkamon></sotkamon>
+         <sotkamon><sotkamon>
          <vaara>vaarakirjastot.11693228</vaara>
          <vanamo>vanamo.852438</vanamo>
          <vaski>vaski.4277980</vaski>
@@ -613,7 +613,7 @@
          <kyyti>kyyti.1479599</kyyti>
          <lapin>lapinkirjasto.1873925</lapin>
          <lastu>lastu.1826543</lastu>
-         <leppavirran>lep.422755</leppavirran>
+         <leppävirran>lep.422755</leppavirran>
          <louna>louna.538763</louna>
          <lukki>lukki.934077</lukki>
          <lumme>lumme.3080248</lumme>
@@ -624,7 +624,7 @@
          <satakirjastot>satakirjastot.1548752</satakirjastot>
          <silinjarven>siilinjarvi.592294</silinjarven>
          <someron>somero.489643</someron>
-         <sotkamon>sotkamo.450880</sotkamon>
+         <sotkamon>sotkamo.450880<sotkamon>
          <vaara>vaarakirjastot.11674692</vaara>
          <vanamo>vanamo.844409</vanamo>
          <vaski>vaski.4242221</vaski>
@@ -652,7 +652,7 @@
          <kyyti>kyyti.1400728</kyyti>
          <lapin>lapinkirjasto.1804705</lapin>
          <lastu>lastu.1646024</lastu>
-         <leppavirran>lep.376617</leppavirran>
+         <leppävirran>lep.376617</leppavirran>
          <louna>louna.500356</louna>
          <lukki>lukki.839379</lukki>
          <lumme>lumme.3019845</lumme>
@@ -663,7 +663,7 @@
          <satakirjastot>satakirjastot.1358476</satakirjastot>
          <silinjarven>siilinjarvi.561858</silinjarven>
          <someron>somero.399656</someron>
-         <sotkamon>sotkamo.372481</sotkamon>
+         <sotkamon>sotkamo.372481<sotkamon>
          <vaara>vaarakirjastot.11552197</vaara>
          <vanamo>vanamo.801331</vanamo>
          <vaski>vaski.4006980</vaski>
@@ -691,7 +691,7 @@
          <kyyti>kyyti.1416777</kyyti>
          <lapin>lapinkirjasto.1817123</lapin>
          <lastu>lastu.1688859</lastu>
-         <leppavirran>lep.381634</leppavirran>
+         <leppävirran>lep.381634</leppavirran>
          <louna>louna.507416</louna>
          <lukki>lukki.859437</lukki>
          <lumme>lumme.3029064</lumme>
@@ -702,14 +702,14 @@
          <satakirjastot>satakirjastot.1380175</satakirjastot>
          <silinjarven>siilinjarvi.568182</silinjarven>
          <someron>somero.416343</someron>
-         <sotkamon>sotkamo.383787</sotkamon>
+         <sotkamon>sotkamo.383787<sotkamon>
          <vaara>vaarakirjastot.11566227</vaara>
          <vanamo>vanamo.808773</vanamo>
          <vaski>vaski.4064585</vaski>
       </links>
       <description><![CDATA[<h4>Jännä juoksu</h4>Eeli ja Omar ovat naapureita sekä parhaita kavereita.<br><br>Koulussa on tulossa juoksukisat ja ystävykset ovat siitä innoissaan. Eeli pakkaa reppuunsa jopa ihka uudet juoksukengät.<br><br>Kun juoksupäivä koittaa, ensin venytellään, minkä jälkeen vanhemmat oppilaat lähtevät juoksemaan ensin. Eeli ja Omar juoksevat todella kovaa! He varmasti voittavat koko kisan. <br><br>Sitten tapahtuu jotain, mikä vie poikien huomion. Onnistuvatko he silti voittamaan?]]></description>
       <series>
-         <helle>1459018</helle>
+         <s_helle>1459018</helle>
       </series>
    </book>
    <book>
@@ -733,7 +733,7 @@
          <kyyti>kyyti.1344440</kyyti>
          <lapin>lapinkirjasto.1746992</lapin>
          <lastu>lastu.1513032</lastu>
-         <leppavirran>lep.320726</leppavirran>
+         <leppävirran>lep.320726</leppavirran>
          <louna>louna.469763</louna>
          <lukki>lukki.767735</lukki>
          <lumme>lumme.2971198</lumme>
@@ -744,7 +744,7 @@
          <satakirjastot>satakirjastot.1261572</satakirjastot>
          <silinjarven>siilinjarvi.540754</silinjarven>
          <someron>somero.342434</someron>
-         <sotkamon>sotkamo.328610</sotkamon>
+         <sotkamon>sotkamo.328610<sotkamon>
          <vaara>vaarakirjastot.11492141</vaara>
          <vanamo>vanamo.751378</vanamo>
          <vaski>vaski.3740251</vaski>
@@ -772,7 +772,7 @@
          <kyyti>kyyti.201556</kyyti>
          <lapin>lapinkirjasto.1201563</lapin>
          <lastu>lastu.291575</lastu>
-         <leppavirran>lep.25904</leppavirran>
+         <leppävirran>lep.25904</leppavirran>
          <louna>louna.257099</louna>
          <lukki>lukki.10408</lukki>
          <lumme>lumme.11865</lumme>
@@ -783,7 +783,7 @@
          <satakirjastot>satakirjastot.253272</satakirjastot>
          <silinjarven>siilinjarvi.119282</silinjarven>
          <someron>somero.229274</someron>
-         <sotkamon>sotkamo.41137</sotkamon>
+         <sotkamon>sotkamo.41137<sotkamon>
          <vaara>vaarakirjastot.10949168</vaara>
          <vanamo>vanamo.493948</vanamo>
          <vaski>vaski.3067166</vaski>
@@ -812,7 +812,7 @@
          <kyyti>kyyti.1416263</kyyti>
          <lapin>lapinkirjasto.1817399</lapin>
          <lastu>lastu.1689995</lastu>
-         <leppavirran>lep.381546</leppavirran>
+         <leppävirran>lep.381546</leppavirran>
          <louna>louna.507409</louna>
          <lukki>lukki.861241</lukki>
          <lumme>lumme.3028990</lumme>
@@ -823,7 +823,7 @@
          <satakirjastot>satakirjastot.1382293</satakirjastot>
          <silinjarven>siilinjarvi.568760</silinjarven>
          <someron>somero.418309</someron>
-         <sotkamon>sotkamo.384047</sotkamon>
+         <sotkamon>sotkamo.384047<sotkamon>
          <vaara>vaarakirjastot.11566945</vaara>
          <vanamo>vanamo.809614</vanamo>
          <vaski>vaski.4065153</vaski>
@@ -851,7 +851,7 @@
          <kyyti>kyyti.1416109</kyyti>
          <lapin>lapinkirjasto.1817398</lapin>
          <lastu>lastu.1689994</lastu>
-         <leppavirran>lep.381545</leppavirran>
+         <leppävirran>lep.381545</leppavirran>
          <louna>louna.507407</louna>
          <lukki>lukki.861238</lukki>
          <lumme>lumme.3028989</lumme>
@@ -862,7 +862,7 @@
          <satakirjastot>satakirjastot.1382290</satakirjastot>
          <silinjarven>siilinjarvi.568757</silinjarven>
          <someron>somero.418306</someron>
-         <sotkamon>sotkamo.384046</sotkamon>
+         <sotkamon>sotkamo.384046<sotkamon>
          <vaara>vaarakirjastot.11566944</vaara>
          <vanamo>vanamo.809611</vanamo>
          <vaski>vaski.4065152</vaski>
@@ -890,7 +890,7 @@
          <kyyti>kyyti.1274567</kyyti>
          <lapin>lapinkirjasto.1284292</lapin>
          <lastu>lastu.234890</lastu>
-         <leppavirran>lep.266965</leppavirran>
+         <leppävirran>lep.266965</leppavirran>
          <louna>louna.348365</louna>
          <lukki>lukki.700648</lukki>
          <lumme>lumme.2906678</lumme>
@@ -901,7 +901,7 @@
          <satakirjastot>satakirjastot.288588</satakirjastot>
          <silinjarven>siilinjarvi.524729</silinjarven>
          <someron>somero.287356</someron>
-         <sotkamon>sotkamo.286433</sotkamon>
+         <sotkamon>sotkamo.286433<sotkamon>
          <vaara>vaarakirjastot.11442279</vaara>
          <vanamo>vanamo.606808</vanamo>
          <vaski>vaski.3543990</vaski>
@@ -929,7 +929,7 @@
          <kyyti>kyyti.1480307</kyyti>
          <lapin>lapinkirjasto.1874665</lapin>
          <lastu>lastu.1828943</lastu>
-         <leppavirran>lep.424438</leppavirran>
+         <leppävirran>lep.424438</leppavirran>
          <louna>louna.539586</louna>
          <lukki>lukki.936164</lukki>
          <lumme>lumme.308180</lumme>
@@ -940,7 +940,7 @@
          <satakirjastot>satakirjastot.1553774</satakirjastot>
          <silinjarven>siilinjarvi.593850</silinjarven>
          <someron>somero.491885</someron>
-         <sotkamon></sotkamon>
+         <sotkamon><sotkamon>
          <vaara>vaarakirjastot.11674958</vaara>
          <vanamo>vanamo.845252</vanamo>
          <vaski>vaski.4243764</vaski>
@@ -968,7 +968,7 @@
          <kyyti>kyyti.1496930</kyyti>
          <lapin>lapinkirjasto.188703</lapin>
          <lastu>lastu.1865994</lastu>
-         <leppavirran>lep.438319</leppavirran>
+         <leppävirran>lep.438319</leppavirran>
          <louna>louna.547020</louna>
          <lukki>lukki.956283</lukki>
          <lumme>lumme.3095610</lumme>
@@ -979,7 +979,7 @@
          <satakirjastot>satakirjastot.1603667</satakirjastot>
          <silinjarven>siilinjarvi.598670</silinjarven>
          <someron>somero.513334</someron>
-         <sotkamon></sotkamon>
+         <sotkamon><sotkamon>
          <vaara>vaarakirjastot.11692312</vaara>
          <vanamo>vanamo.852501</vanamo>
          <vaski>vaski.4277994</vaski>
@@ -1007,7 +1007,7 @@
          <kyyti>kyyti.1435073</kyyti>
          <lapin>lapinkirjasto.1832573</lapin>
          <lastu>lastu.1732541</lastu>
-         <leppavirran>lep.384207</leppavirran>
+         <leppävirran>lep.384207</leppavirran>
          <louna>louna.516803</louna>
          <lukki>lukki.880802</lukki>
          <lumme>lumme.3042333</lumme>
@@ -1018,7 +1018,7 @@
          <satakirjastot>satakirjastot.1413923</satakirjastot>
          <silinjarven>siilinjarvi.577101</silinjarven>
          <someron>somero.437196</someron>
-         <sotkamon>sotkamo.398855</sotkamon>
+         <sotkamon>sotkamo.398855<sotkamon>
          <vaara>vaarakirjastot.11585299</vaara>
          <vanamo>vanamo.817933</vanamo>
          <vaski>vaski.4148358</vaski>
@@ -1046,7 +1046,7 @@
          <kyyti>kyyti.1334212</kyyti>
          <lapin>lapinkirjasto.1733875</lapin>
          <lastu>lastu.197622</lastu>
-         <leppavirran>lep.305999</leppavirran>
+         <leppävirran>lep.305999</leppavirran>
          <louna>louna.461808</louna>
          <lukki>lukki.748640</lukki>
          <lumme>lumme.2957876</lumme>
@@ -1057,7 +1057,7 @@
          <satakirjastot>satakirjastot.1239994</satakirjastot>
          <silinjarven>siilinjarvi.537708</silinjarven>
          <someron></someron>
-         <sotkamon>sotkamo.320545</sotkamon>
+         <sotkamon>sotkamo.320545<sotkamon>
          <vaara>vaarakirjastot.11478523</vaara>
          <vanamo>vanamo.743270</vanamo>
          <vaski>vaski.3671653</vaski>
@@ -1085,7 +1085,7 @@
          <kyyti>kyyti.1493434</kyyti>
          <lapin>lapinkirjasto.1885564</lapin>
          <lastu>lastu.1857710</lastu>
-         <leppavirran>lep.437418</leppavirran>
+         <leppävirran>lep.437418</leppavirran>
          <louna>louna.545985</louna>
          <lukki>lukki.954146</lukki>
          <lumme>lumme.3091070</lumme>
@@ -1096,14 +1096,14 @@
          <satakirjastot>satakirjastot.1600696</satakirjastot>
          <silinjarven>siilinjarvi.597632</silinjarven>
          <someron>somero.511716</someron>
-         <sotkamon>sotkamo.464387</sotkamon>
+         <sotkamon>sotkamo.464387<sotkamon>
          <vaara>vaarakirjastot.11687674</vaara>
          <vanamo>vanamo.851419</vanamo>
          <vaski>vaski.4269340</vaski>
       </links>
       <description><![CDATA[<h4>Luen itse, Marvel-sarja</h4>Peter Parker on lapsena orvoksi jäänyt poika, joka asuu setänsä ja tätinsä luona New Yorkissa ja ottaa valokuvia paikalliseen sanomalehteen.<br>Kunnes eräänä päivänä radioaktiivinen hämähäkki puree häntä ja hän saa supervoimat!<br><br>Peter pystyy nyt kiipeämään pitkin seiniä kuin hämähäkki, tuottamaan seittiä ja vaistoamaan vaaran superherkillä hämähäkin aisteillaan.]]></description>
       <series>
-         <helle>1459036</helle>
+         <s_helle>1459036</helle>
       </series>
    </book>
    <book>
@@ -1127,7 +1127,7 @@
          <kyyti>kyyti.1497330</kyyti>
          <lapin>lapinkirjasto.1886238</lapin>
          <lastu>lastu.1866317</lastu>
-         <leppavirran></leppavirran>
+         <leppävirran></leppavirran>
          <louna>louna.547163</louna>
          <lukki>lukki.958019</lukki>
          <lumme>lumme.3095350</lumme>
@@ -1138,14 +1138,14 @@
          <satakirjastot>satakirjastot.1603370</satakirjastot>
          <silinjarven>siilinjarvi.597953</silinjarven>
          <someron>somero.515154</someron>
-         <sotkamon></sotkamon>
+         <sotkamon><sotkamon>
          <vaara>vaarakirjastot.11691005</vaara>
          <vanamo>vanamo.853234</vanamo>
          <vaski>vaski.4277287</vaski>
       </links>
       <description><![CDATA[<h4>Seikkailu vuorella</h4>Lue jännittävää tarinaa siitä, kuinka Emmi ja Kaarna koettavat selviytyä Minecraftin villissä maailmassa!]]></description>
       <series>
-         <helle>1459042</helle>
+         <s_helle>1459042</helle>
       </series>
    </book>
    <book>
@@ -1169,7 +1169,7 @@
          <kyyti>kyyti.1508978</kyyti>
          <lapin>lapinkirjasto.1900531</lapin>
          <lastu>lastu.1888664</lastu>
-         <leppavirran>lep.445876</leppavirran>
+         <leppävirran>lep.445876</leppavirran>
          <louna>louna.550309</louna>
          <lukki>lukki.968293</lukki>
          <lumme>lumme.3107199</lumme>
@@ -1180,7 +1180,7 @@
          <satakirjastot>satakirjastot.1637659</satakirjastot>
          <silinjarven>siilinjarvi.601007</silinjarven>
          <someron>somero.521486</someron>
-         <sotkamon>sotkamo.478203</sotkamon>
+         <sotkamon>sotkamo.478203<sotkamon>
          <vaara>vaarakirjastot.1170153</vaara>
          <vanamo>vanamo.857139</vanamo>
          <vaski>vaski.4298387</vaski>
@@ -1208,7 +1208,7 @@
          <kyyti>kyyti.1327421</kyyti>
          <lapin>lapinkirjasto.1731364</lapin>
          <lastu>lastu.259264</lastu>
-         <leppavirran>lep.302025</leppavirran>
+         <leppävirran>lep.302025</leppavirran>
          <louna>louna.460330</louna>
          <lukki>lukki.742788</lukki>
          <lumme>lumme.2953748</lumme>
@@ -1219,14 +1219,14 @@
          <satakirjastot>satakirjastot.372441</satakirjastot>
          <silinjarven>siilinjarvi.536232</silinjarven>
          <someron>somero.322820</someron>
-         <sotkamon>sotkamo.315076</sotkamon>
+         <sotkamon>sotkamo.315076<sotkamon>
          <vaara>vaarakirjastot.11475173</vaara>
          <vanamo>vanamo.741056</vanamo>
          <vaski>vaski.3659723</vaski>
       </links>
       <description><![CDATA[<h4>Mur ja mustikka</h4>Mur ja mustikka kertoo tarinan Murin ja Ison matkasta polulla.<br><br>Iso on matkalla määränpäähän ja Murin on seurattava perässä. Vaikka vastaan tulisi mitä! Polun päässä on mustikka. Monta mustikkaa. Mustikoita silmänkantamattomiin.<br><br>Joka puolella vain ja ainoastaan mustikoita! Sinne me menemme.]]></description>
       <series>
-         <helle>1459063</helle>
+         <s_helle>1459063</helle>
       </series>
    </book>
    <book>
@@ -1250,7 +1250,7 @@
          <kyyti>kyyti.612175</kyyti>
          <lapin>lapinkirjasto.1091418</lapin>
          <lastu>lastu.390182</lastu>
-         <leppavirran></leppavirran>
+         <leppävirran></leppavirran>
          <louna>louna.311862</louna>
          <lukki>lukki.43739</lukki>
          <lumme>lumme.373142</lumme>
@@ -1261,7 +1261,7 @@
          <satakirjastot>satakirjastot.435853</satakirjastot>
          <silinjarven>siilinjarvi.461791</silinjarven>
          <someron>somero.168875</someron>
-         <sotkamon>sotkamo.53971</sotkamon>
+         <sotkamon>sotkamo.53971<sotkamon>
          <vaara>vaarakirjastot.459676</vaara>
          <vanamo>vanamo.284922</vanamo>
          <vaski>vaski.2822288</vaski>
@@ -1289,7 +1289,7 @@
          <kyyti>kyyti.1400101</kyyti>
          <lapin>lapinkirjasto.1804234</lapin>
          <lastu>lastu.1645980</lastu>
-         <leppavirran>lep.376573</leppavirran>
+         <leppävirran>lep.376573</leppavirran>
          <louna>louna.498686</louna>
          <lukki>lukki.839335</lukki>
          <lumme>lumme.3019137</lumme>
@@ -1300,14 +1300,14 @@
          <satakirjastot>satakirjastot.1358432</satakirjastot>
          <silinjarven>siilinjarvi.561917</silinjarven>
          <someron>somero.399612</someron>
-         <sotkamon>sotkamo.371330</sotkamon>
+         <sotkamon>sotkamo.371330<sotkamon>
          <vaara>vaarakirjastot.11552160</vaara>
          <vanamo>vanamo.801300</vanamo>
          <vaski>vaski.4004074</vaski>
       </links>
       <description><![CDATA[<h4>Häntähoiva ja Pätkä</h4>Martta haluaisi oman koiran, mutta valitettavasti isä on allerginen, eikä haavetta siten voi toteuttaa.<br><br>Onneksi on Tiina, joka pyytää Marttaa auttamaan häntä Pätkä-koiran lenkittämisessä viikon ajan.<br><br>Ystäviensä Lilan sekä Eeron kanssa, Martta perustaa osuuskunta Häntähoivan auttamaan kaikenlaisissa lemmikkeihin liittyvissä ongelmissa.]]></description>
       <series>
-         <helle>1459033</helle>
+         <s_helle>1459033</helle>
       </series>
    </book>
    <book>
@@ -1331,7 +1331,7 @@
          <kyyti>kyyti.253053</kyyti>
          <lapin>lapinkirjasto.1241050</lapin>
          <lastu>lastu.297400</lastu>
-         <leppavirran>lep.227820</leppavirran>
+         <leppävirran>lep.227820</leppavirran>
          <louna>louna.291944</louna>
          <lukki>lukki.646960</lukki>
          <lumme>lumme.2607940</lumme>
@@ -1342,14 +1342,14 @@
          <satakirjastot>satakirjastot.333781</satakirjastot>
          <silinjarven>siilinjarvi.199433</silinjarven>
          <someron>somero.256444</someron>
-         <sotkamon>sotkamo.253193</sotkamon>
+         <sotkamon>sotkamo.253193<sotkamon>
          <vaara>vaarakirjastot.11401320</vaara>
          <vanamo>vanamo.548492</vanamo>
          <vaski>vaski.3437912</vaski>
       </links>
       <description><![CDATA[<h4>Keisarin uudet kloonit</h4>Ronista on kurjaa olla koko galaksin keisari.<br><br>Hänellä on niin paljon keisarillisia velvollisuuksia, että hän ei ehdi pelata lempipeliään kiitopalloa.<br><br>Kunpa joku voisi hoitaa velvollisuudet hänen puolestaan...]]></description>
       <series>
-         <helle></helle>
+         <s_helle></helle>
       </series>
    </book>
    <book>
@@ -1373,7 +1373,7 @@
          <kyyti>kyyti.689894</kyyti>
          <lapin>lapinkirjasto.1201566</lapin>
          <lastu>lastu.327852</lastu>
-         <leppavirran>lep.14252</leppavirran>
+         <leppävirran>lep.14252</leppavirran>
          <louna>louna.193073</louna>
          <lukki>lukki.57047</lukki>
          <lumme>lumme.425847</lumme>
@@ -1384,7 +1384,7 @@
          <satakirjastot>satakirjastot.413242</satakirjastot>
          <silinjarven>siilinjarvi.469007</silinjarven>
          <someron>somero.229273</someron>
-         <sotkamon>sotkamo.38206</sotkamon>
+         <sotkamon>sotkamo.38206<sotkamon>
          <vaara>vaarakirjastot.10949171</vaara>
          <vanamo>vanamo.634390</vanamo>
          <vaski>vaski.3067165</vaski>
@@ -1401,7 +1401,7 @@
       </links>
       <description><![CDATA[<h4>Maailman paras pizza</h4>Madeleinella sekä hänen kaksoisveljellään Michelinillä on oma kokkiklubi, johon kuuluu myös paras ystävä Slaissi sekä pikkusisko Bebe, joka toki vain sotkee.<br><br>Eräänä päivänä on Slaissin jalkapalloturnaus, jonka jälkeisissä myyjäisissä tulisi tarjoilla pizzaa.<br><br>Millaisia aineksia pizzan tekeminen tarvitsee ja kuka kumma on ovesta sisään pyyhältävä Rosmariini?]]></description>
       <series>
-         <helle>1459093</helle>
+         <s_helle>1459093</helle>
          <anders>anders.1680506</anders>
          <blanka>blanka.127607</blanka>
          <eepos>eepos.2378904</eepos>
@@ -1416,7 +1416,7 @@
          <kyyti>kyyti.1320564</kyyti>
          <lapin>lapinkirjasto.1731358</lapin>
          <lastu>lastu.241597</lastu>
-         <leppavirran>lep.302142</leppavirran>
+         <leppävirran>lep.302142</leppavirran>
          <louna>louna.460321</louna>
          <lukki>lukki.742904</lukki>
          <lumme>lumme.2953992</lumme>
@@ -1427,7 +1427,7 @@
          <satakirjastot>satakirjastot.448797</satakirjastot>
          <silinjarven>siilinjarvi.535864</silinjarven>
          <someron>somero.322937</someron>
-         <sotkamon>sotkamo.314957</sotkamon>
+         <sotkamon>sotkamo.314957<sotkamon>
          <vaara>vaarakirjastot.11475418</vaara>
          <vanamo>vanamo.741124</vanamo>
          <vaski>vaski.3659114</vaski>
@@ -1454,7 +1454,7 @@
          <kyyti>kyyti.1414141</kyyti>
          <lapin>lapinkirjasto.1815500</lapin>
          <lastu>lastu.1684618</lastu>
-         <leppavirran>lep.380839</leppavirran>
+         <leppävirran>lep.380839</leppavirran>
          <louna>louna.504478</louna>
          <lukki>lukki.856484</lukki>
          <lumme>lumme.3026696</lumme>
@@ -1465,14 +1465,14 @@
          <satakirjastot>satakirjastot.1375963</satakirjastot>
          <silinjarven>siilinjarvi.566779</silinjarven>
          <someron>somero.412740</someron>
-         <sotkamon>sotkamo.382451</sotkamon>
+         <sotkamon>sotkamo.382451<sotkamon>
          <vaara>vaarakirjastot.11564081</vaara>
          <vanamo>vanamo.807026</vanamo>
          <vaski>vaski.4051711</vaski>
       </links>
       <description><![CDATA[<h4>Painajaispuoti ja kamala kutituspulveri</h4>Ninnillä on monta ongelmaa!<br><br>Ensinnäkin hän haluaa ostaa polkupyörän.<br>Toiseksi hänellä ei ole rahaa osata sitä.<br>Ja kolmanneksi Ninni tarvitsee työpaikan, mutta kuka kumma voisi palkata 9-vuotiaan!<br><br>Kuka kumma tosiaan! Nimittäin omituinen kauppa nimeltään Painajaispuoti etsii kauppa-apulaista. Ninnistä kauppa näyttää todella hienolta, mutta se omistaja on todella outo, eikä tee mitään muuta kuin hihitä lattialla.<br><br>Onnistuuko Ninni lopulta saamaan työpaikan sekä polkupyörän?]]></description>
       <series>
-         <helle>1459102</helle>
+         <s_helle>1459102</helle>
       </series>
    </book>
    <book>
@@ -1496,7 +1496,7 @@
          <kyyti>kyyti.1339095</kyyti>
          <lapin>lapinkirjasto.1742947</lapin>
          <lastu>lastu.267684</lastu>
-         <leppavirran>lep.317128</leppavirran>
+         <leppävirran>lep.317128</leppavirran>
          <louna>louna.467931</louna>
          <lukki>lukki.763540</lukki>
          <lumme>lumme.2968952</lumme>
@@ -1507,14 +1507,14 @@
          <satakirjastot>satakirjastot.1257034</satakirjastot>
          <silinjarven>siilinjarvi.539902</silinjarven>
          <someron>somero.338789</someron>
-         <sotkamon>sotkamo.324994</sotkamon>
+         <sotkamon>sotkamo.324994<sotkamon>
          <vaara>vaarakirjastot.11489888</vaara>
          <vanamo>vanamo.74789</vanamo>
          <vaski>vaski.3723419</vaski>
       </links>
       <description><![CDATA[<h4>Yökoulu-sarja</h4>Tiesitkö, että zombit ja vampyyrit käyvät öisin koulua?<br><br>Yökoulu on helppolukuinen kirjasarja, joka on pullollaan päätöntä huumoria ja jäätävän jännää meininkiä.<br><br>Kauhun ja huumorin yhdistelmää ei voi vampyyrikaan vastustaa!]]></description>
       <series>
-         <helle>1459105</helle>
+         <s_helle>1459105</helle>
       </series>
    </book>
    <book>
@@ -1539,7 +1539,7 @@
          <kyyti>kyyti.1433596</kyyti>
          <lapin>lapinkirjasto.1828378</lapin>
          <lastu>lastu.1725566</lastu>
-         <leppavirran>lapinkirjasto.1828378</leppavirran>
+         <leppävirran>lapinkirjasto.1828378</leppavirran>
          <louna>louna.514349</louna>
          <lukki>lukki.876651</lukki>
          <lumme>lumme.3039836</lumme>
@@ -1550,14 +1550,14 @@
          <satakirjastot>satakirjastot.1403147</satakirjastot>
          <silinjarven>siilinjarvi.575061</silinjarven>
          <someron>somero.433885</someron>
-         <sotkamon>sotkamo.397988</sotkamon>
+         <sotkamon>sotkamo.397988<sotkamon>
          <vaara>vaarakirjastot.11580658</vaara>
          <vanamo>vanamo.815266</vanamo>
          <vaski>vaski.4136351</vaski>
       </links>
       <description><![CDATA[<h4>Aavepartio-sarja</h4>Lukupalojen uudessa Aavepartio-sarjassa koti täyttyy monstereista heti, kun äiti ja isä sulkevat oven perässään.<br><br>Lasten perustama Aavepartio ryhtyy rakentamaan haamuille, ihmissusille, zombeille ja vampyyreille toinen toistaan kekseliäämpiä ja hassumpia ansoja.]]></description>
       <series>
-         <helle>1459114</helle>
+         <s_helle>1459114</helle>
       </series>
    </book>
    <book>
@@ -1581,7 +1581,7 @@
          <kyyti>kyyti.476733</kyyti>
          <lapin>lapinkirjasto.1220661</lapin>
          <lastu>lastu.215246</lastu>
-         <leppavirran>lep.20376</leppavirran>
+         <leppävirran>lep.20376</leppavirran>
          <louna>louna.293311</louna>
          <lukki>lukki.35476</lukki>
          <lumme>lumme.287015</lumme>
@@ -1592,7 +1592,7 @@
          <satakirjastot>satakirjastot.281113</satakirjastot>
          <silinjarven>siilinjarvi.428167</silinjarven>
          <someron>somero.241313</someron>
-         <sotkamon>sotkamo.57109</sotkamon>
+         <sotkamon>sotkamo.57109<sotkamon>
          <vaara>vaarakirjastot.11297833</vaara>
          <vanamo>vanamo.562934</vanamo>
          <vaski>vaski.3117334</vaski>
@@ -1620,7 +1620,7 @@
          <kyyti>kyyti.1466628</kyyti>
          <lapin>lapinkirjasto.1861123</lapin>
          <lastu>lastu.1797811</lastu>
-         <leppavirran>lep.412294</leppavirran>
+         <leppävirran>lep.412294</leppavirran>
          <louna>louna.531265</louna>
          <lukki>lukki.915816</lukki>
          <lumme>lumme.3069132</lumme>
@@ -1631,7 +1631,7 @@
          <satakirjastot>satakirjastot.1499016</satakirjastot>
          <silinjarven>siilinjarvi.587422</silinjarven>
          <someron>somero.472369</someron>
-         <sotkamon>sotkamo.440412</sotkamon>
+         <sotkamon>sotkamo.440412<sotkamon>
          <vaara>vaarakirjastot.11660553</vaara>
          <vanamo>vanamo.836322</vanamo>
          <vaski>vaski.4212303</vaski>
@@ -1659,7 +1659,7 @@
          <kyyti>kyyti.1365981</kyyti>
          <lapin>lapinkirjasto.1772108</lapin>
          <lastu>lastu.1556909</lastu>
-         <leppavirran>lep.340729</leppavirran>
+         <leppävirran>lep.340729</leppavirran>
          <louna>louna.481204</louna>
          <lukki>lukki.793317</lukki>
          <lumme>lumme.2988109</lumme>
@@ -1670,7 +1670,7 @@
          <satakirjastot>satakirjastot.1298480</satakirjastot>
          <silinjarven>siilinjarvi.546384</silinjarven>
          <someron>somero.362324</someron>
-         <sotkamon>sotkamo.344156</sotkamon>
+         <sotkamon>sotkamo.344156<sotkamon>
          <vaara>vaarakirjastot.11514337</vaara>
          <vanamo>vanamo.780480</vanamo>
          <vaski>vaski.3841142</vaski>
@@ -1698,7 +1698,7 @@
          <kyyti>kyyti.1247749</kyyti>
          <lapin>lapinkirjasto.1259167</lapin>
          <lastu>lastu.380711</lastu>
-         <leppavirran>lep.242843</leppavirran>
+         <leppävirran>lep.242843</leppavirran>
          <louna>louna.262765</louna>
          <lukki>lukki.668291</lukki>
          <lumme>lumme.2866322</lumme>
@@ -1709,7 +1709,7 @@
          <satakirjastot>satakirjastot.440139</satakirjastot>
          <silinjarven>siilinjarvi.420502</silinjarven>
          <someron>somero.267973</someron>
-         <sotkamon>sotkamo.266639</sotkamon>
+         <sotkamon>sotkamo.266639<sotkamon>
          <vaara>vaarakirjastot.11415129</vaara>
          <vanamo>vanamo.346516v</vanamo>
          <vaski>vaski.3476947</vaski>
@@ -1737,7 +1737,7 @@
          <kyyti></kyyti>
          <lapin></lapin>
          <lastu></lastu>
-         <leppavirran></leppavirran>
+         <leppävirran></leppavirran>
          <louna></louna>
          <lukki></lukki>
          <lumme></lumme>
@@ -1748,14 +1748,14 @@
          <satakirjastot></satakirjastot>
          <silinjarven></silinjarven>
          <someron></someron>
-         <sotkamon></sotkamon>
+         <sotkamon><sotkamon>
          <vaara></vaara>
          <vanamo></vanamo>
          <vaski></vaski>
       </links>
       <description><![CDATA[<h4>Kaupunkiretki</h4>Runomatkalla kaupungissa piipahdetaan paloasemalla, helpotetaan hammassärkyä apteekissa, kurkataan kaupungintaloon ja viivähdetään torilla.<br><br>Välillä seistään liikennevaloissa, istahdetaan puistonpenkillä ja kuunnellaan, mitä lyhtypylväs kertoo. Tehtaan savu aivastuttaa ja joku on ikuistettu patsaaseen.<br><br>Vaan uimahalli se vasta kumma paikka on: sen lattialla loiskuu sadat litrat vettä.]]></description>
       <series>
-         <helle></helle>
+         <s_helle></helle>
       </series>
    </book>
    <book>
@@ -1782,7 +1782,7 @@
          <kyyti></kyyti>
          <lapin></lapin>
          <lastu></lastu>
-         <leppavirran></leppavirran>
+         <leppävirran></leppavirran>
          <louna></louna>
          <lukki></lukki>
          <lumme></lumme>
@@ -1794,7 +1794,7 @@
          <satakirjastot></satakirjastot>
          <silinjarven></silinjarven>
          <someron></someron>
-         <sotkamon></sotkamon>
+         <sotkamon><sotkamon>
          <vaara></vaara>
          <vanamo></vanamo>
          <vaski></vaski>
@@ -1824,7 +1824,7 @@
          <kyyti></kyyti>
          <lapin></lapin>
          <lastu></lastu>
-         <leppavirran></leppavirran>
+         <leppävirran></leppavirran>
          <louna></louna>
          <lukki></lukki>
          <lumme></lumme>
@@ -1836,7 +1836,7 @@
          <satakirjastot></satakirjastot>
          <silinjarven></silinjarven>
          <someron></someron>
-         <sotkamon></sotkamon>
+         <sotkamon><sotkamon>
          <vaara></vaara>
          <vanamo></vanamo>
          <vaski></vaski>
@@ -1866,7 +1866,7 @@
          <kyyti></kyyti>
          <lapin></lapin>
          <lastu></lastu>
-         <leppavirran></leppavirran>
+         <leppävirran></leppavirran>
          <louna></louna>
          <lukki></lukki>
          <lumme></lumme>
@@ -1878,7 +1878,7 @@
          <satakirjastot></satakirjastot>
          <silinjarven></silinjarven>
          <someron></someron>
-         <sotkamon></sotkamon>
+         <sotkamon><sotkamon>
          <vaara></vaara>
          <vanamo></vanamo>
          <vaski></vaski>
@@ -1896,7 +1896,7 @@
       </links>
       <description><![CDATA[]]></description>
       <series>
-         <helle></helle>
+         <s_helle></helle>
       </series>
    </book>
    <book>
@@ -1921,7 +1921,7 @@
          <kyyti></kyyti>
          <lapin></lapin>
          <lastu></lastu>
-         <leppavirran></leppavirran>
+         <leppävirran></leppavirran>
          <louna></louna>
          <lukki></lukki>
          <lumme></lumme>
@@ -1933,14 +1933,14 @@
          <satakirjastot></satakirjastot>
          <silinjarven></silinjarven>
          <someron></someron>
-         <sotkamon></sotkamon>
+         <sotkamon><sotkamon>
          <vaara></vaara>
          <vanamo></vanamo>
          <vaski></vaski>
       </links>
       <description><![CDATA[]]></description>
       <series>
-         <helle></helle>
+         <s_helle></helle>
       </series>
    </book>
 </books>
