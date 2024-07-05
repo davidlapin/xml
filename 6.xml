@@ -1,7 +1,9 @@
 <?xml version="1.0"?>
 <books>
    <book>
-      <links>helle.1635029</links>
+      <links>
+         <helle>helle.1635029</helle>
+      </links>
       <category>Historia herää henkiin</category>
    </book>
    <book>
