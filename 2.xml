@@ -1,11 +1,6 @@
 <?xml version="1.0"?>
 <books>
    <book>
-      <title>testing</title>
-      <links><helle>helle.1635029</helle></links>
-      <category>Kaikenlaisia kavereita</category>
-   </book>
-   <book>
       <title>Mortina-sarja</title>
       <author>Cantini, Barbara</author>
       <category>Kaikenlaisia kavereita</category>
